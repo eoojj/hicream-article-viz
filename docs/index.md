@@ -2,10 +2,10 @@
 
 ## Bonev
 <details>
-  <summary><strong>hicream diff</strong></summary>
+<summary><strong>hicream diff</strong></summary>
   
 <details>
-  <summary><strong>50kb</strong></summary>
+<summary><strong>50kb</strong></summary>
 
 - [Chromosome 1](https://eoojj.github.io/viz_hicream_bonev_diff_chr1_50000)
 - [Chromosome 2](https://eoojj.github.io/viz_hicream_bonev_diff_chr2_50000)
@@ -36,10 +36,10 @@
 
 ## CTCF
 <details>
-  <summary><strong>hicream diff</strong></summary>
+<summary><strong>hicream diff</strong></summary>
   
 <details>
-  <summary><strong>100kb</strong></summary>
+<summary><strong>100kb</strong></summary>
 
 - [Chromosome 1](https://eoojj.github.io/viz_hicream_ctcf_diff_chr1_100000)
 - [Chromosome 2](https://eoojj.github.io/viz_hicream_ctcf_diff_chr2_100000)
@@ -66,7 +66,7 @@
 
 
 <details>
-  <summary><strong>200kb</strong></summary>
+<summary><strong>200kb</strong></summary>
 
 - [Chromosome 1](https://eoojj.github.io/viz_hicream_ctcf_diff_chr1_200000)
 - [Chromosome 2](https://eoojj.github.io/viz_hicream_ctcf_diff_chr2_200000)
@@ -95,23 +95,24 @@
 ## Simulation setting 
 
 <details>
-  <summary><strong>hicream counts</strong></summary>
+<summary><strong>hicream counts</strong></summary>
+  
 <details>
-  <summary><strong>200kb</strong></summary>
+<summary><strong>200kb</strong></summary>
 - [Chromosome 1](https://eoojj.github.io/viz_hicream_simu_counts_chr1_200000)
 - [Chromosome 7](https://eoojj.github.io/viz_hicream_simu_counts_chr7_200000)
 - [Chromosome 21](https://eoojj.github.io/viz_hicream_simu_counts_chr21_200000)
 </details>
 
 <details>
-  <summary><strong>500kb</strong></summary>
+<summary><strong>500kb</strong></summary>
 - [Chromosome 1](https://eoojj.github.io/viz_hicream_simu_counts_chr1_500000)
 - [Chromosome 7](https://eoojj.github.io/viz_hicream_simu_counts_chr7_500000)
 - [Chromosome 21](https://eoojj.github.io/viz_hicream_simu_counts_chr21_500000)
 </details>
 
 <details>
-  <summary><strong>1Mb</strong></summary>
+<summary><strong>1Mb</strong></summary>
 - [Chromosome 1](https://eoojj.github.io/viz_hicream_simu_counts_chr1_1000000)
 - [Chromosome 7](https://eoojj.github.io/viz_hicream_simu_counts_chr7_1000000)
 - [Chromosome 21](https://eoojj.github.io/viz_hicream_simu_counts_chr21_1000000)
@@ -120,7 +121,8 @@
 </details>
 
 <details>
-  <summary><strong>hicream diff</strong></summary>
+<summary><strong>hicream diff</strong></summary>
+  
 <details>
   <summary><strong>200kb</strong></summary>
 - [Chromosome 1](https://eoojj.github.io/viz_hicream_diff_counts_chr1_200000)
@@ -129,17 +131,18 @@
 </details>
 
 <details>
-  <summary><strong>500kb</strong></summary>
+<summary><strong>500kb</strong></summary>
 - [Chromosome 1](https://eoojj.github.io/viz_hicream_diff_counts_chr1_500000)
 - [Chromosome 7](https://eoojj.github.io/viz_hicream_diff_counts_chr7_500000)
 - [Chromosome 21](https://eoojj.github.io/viz_hicream_diff_counts_chr21_500000)
 </details>
 
 <details>
-  <summary><strong>1Mb</strong></summary>
+<summary><strong>1Mb</strong></summary>
 - [Chromosome 1](https://eoojj.github.io/viz_hicream_diff_counts_chr1_1000000)
 - [Chromosome 7](https://eoojj.github.io/viz_hicream_diff_counts_chr7_1000000)
 - [Chromosome 21](https://eoojj.github.io/viz_hicream_diff_counts_chr21_1000000)
+
 </details>
 </details>
 
