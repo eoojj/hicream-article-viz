@@ -1,9 +1,8 @@
 # Gallery of results visualization for hicream article
 
 ## Bonev
+### hicream diff
 <details>
-  <summary><strong>hicream diff</strong></summary>
-  <details>
     <summary><strong>50kb</strong></summary>
     <ul>
       <li><a href="https://eoojj.github.io/viz_hicream_bonev_diff_chr1_50000">Chromosome 1</a></li>
@@ -26,13 +25,13 @@
       <li><a href="https://eoojj.github.io/viz_hicream_bonev_diff_chr18_50000">Chromosome 18</a></li>
       <li><a href="https://eoojj.github.io/viz_hicream_bonev_diff_chr19_50000">Chromosome 19</a></li>
     </ul>
-  </details>
+
 </details>
 
 ## CTCF
+### hicream diff
+
 <details>
-  <summary><strong>hicream diff</strong></summary>
-  <details>
     <summary><strong>100kb</strong></summary>
     <ul>
       <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr1_100000">Chromosome 1</a></li>
@@ -55,8 +54,9 @@
       <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr18_100000">Chromosome 18</a></li>
       <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr19_100000">Chromosome 19</a></li>
     </ul>
-  </details>
-  <details>
+</details>
+  
+<details>
     <summary><strong>200kb</strong></summary>
     <ul>
       <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr1_200000">Chromosome 1</a></li>
@@ -79,12 +79,10 @@
       <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr18_200000">Chromosome 18</a></li>
       <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr19_200000">Chromosome 19</a></li>
     </ul>
-  </details>
 </details>
 
 ## Simulation setting
-<details>
-  <summary><strong>hicream counts</strong></summary>
+### hicream counts
   <details>
     <summary><strong>200kb</strong></summary>
     <ul>
@@ -109,9 +107,9 @@
       <li><a href="https://eoojj.github.io/viz_hicream_simu_counts_chr21_1000000">Chromosome 21</a></li>
     </ul>
   </details>
-</details>
-<details>
-  <summary><strong>hicream diff</strong></summary>
+
+### hicream diff
+
   <details>
     <summary><strong>200kb</strong></summary>
     <ul>
@@ -136,4 +134,3 @@
       <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr21_1000000">Chromosome 21</a></li>
     </ul>
   </details>
-</details>
