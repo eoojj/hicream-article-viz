@@ -32,31 +32,6 @@
 ### hicream diff
 
 <details>
-    <summary><strong>100kb</strong></summary>
-    <ul>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr1_100000">Chromosome 1</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr2_100000">Chromosome 2</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr3_100000">Chromosome 3</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr4_100000">Chromosome 4</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr5_100000">Chromosome 5</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr6_100000">Chromosome 6</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr7_100000">Chromosome 7</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr8_100000">Chromosome 8</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr9_100000">Chromosome 9</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr10_100000">Chromosome 10</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr11_100000">Chromosome 11</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr12_100000">Chromosome 12</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr13_100000">Chromosome 13</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr14_100000">Chromosome 14</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr15_100000">Chromosome 15</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr16_100000">Chromosome 16</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr17_100000">Chromosome 17</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr18_100000">Chromosome 18</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr19_100000">Chromosome 19</a></li>
-    </ul>
-</details>
-  
-<details>
     <summary><strong>200kb</strong></summary>
     <ul>
       <li><a href="https://eoojj.github.io/viz_hicream_ctcf_diff_chr1_200000">Chromosome 1</a></li>
