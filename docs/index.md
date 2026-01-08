@@ -88,24 +88,24 @@
   <details>
     <summary><strong>200kb</strong></summary>
     <ul>
-      <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr1_200000">Chromosome 1</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr7_200000">Chromosome 7</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr21_200000">Chromosome 21</a></li>
+      <li><a href="https://eoojj.github.io/viz_hicream_simu_diff_chr1_200000">Chromosome 1</a></li>
+      <li><a href="https://eoojj.github.io/viz_hicream_simu_diff_chr7_200000">Chromosome 7</a></li>
+      <li><a href="https://eoojj.github.io/viz_hicream_simu_diff_chr21_200000">Chromosome 21</a></li>
     </ul>
   </details>
   <details>
     <summary><strong>500kb</strong></summary>
     <ul>
-      <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr1_500000">Chromosome 1</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr7_500000">Chromosome 7</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr21_500000">Chromosome 21</a></li>
+      <li><a href="https://eoojj.github.io/viz_hicream_simu_diff_chr1_500000">Chromosome 1</a></li>
+      <li><a href="https://eoojj.github.io/viz_hicream_simu_diff_chr7_500000">Chromosome 7</a></li>
+      <li><a href="https://eoojj.github.io/viz_hicream_simu_diff_chr21_500000">Chromosome 21</a></li>
     </ul>
   </details>
   <details>
     <summary><strong>1Mb</strong></summary>
     <ul>
-      <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr1_1000000">Chromosome 1</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr7_1000000">Chromosome 7</a></li>
-      <li><a href="https://eoojj.github.io/viz_hicream_diff_counts_chr21_1000000">Chromosome 21</a></li>
+      <li><a href="https://eoojj.github.io/viz_hicream_simu_diff_chr1_1000000">Chromosome 1</a></li>
+      <li><a href="https://eoojj.github.io/viz_hicream_simu_diff_chr7_1000000">Chromosome 7</a></li>
+      <li><a href="https://eoojj.github.io/viz_hicream_simu_diff_chr21_1000000">Chromosome 21</a></li>
     </ul>
   </details>
